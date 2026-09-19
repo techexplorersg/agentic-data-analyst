@@ -62,3 +62,12 @@ The language model proposes actions; it does not own authorization. SQL passes t
 - Structured agent state
 - Auditable execution
 - Provider-independent LLM interface
+
+## Portfolio Disclosure
+
+This repository is an independent reference implementation created to
+demonstrate AI/ML engineering, architecture, evaluation, and software
+engineering practices.
+
+It should not be interpreted as a representation of work completed for
+a specific employer or client unless explicitly stated.
